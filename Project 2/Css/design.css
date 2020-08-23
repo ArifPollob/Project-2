@@ -1,0 +1,74 @@
+
+.Login-section h1{
+	font-family: 'Lato', sans-serif;
+	color: white;
+	text-align: center;
+	font-size: 37px;
+	text-transform: uppercase;
+	margin: 20px 0;
+}
+
+
+
+
+body{
+		background:url(../Image/game.jpg);
+		background-repeat: no-repeat;
+		background-size:cover;
+}
+.container{
+		 width: 660px;
+		 margin: 30% auto;
+
+
+}
+
+
+.Login-section{
+
+	background-color: #000000b8;;
+	padding: 25px;
+	
+
+	
+
+
+	
+
+}
+
+.Login-section img{
+	 margin: 0 auto;
+	 display: block;
+	 width: 300px
+}
+
+
+
+
+.form{
+	width: 95%;
+	height: 30px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+	
+
+.button{
+	border: solid color: black;
+	padding: 5px 15px;
+	background: black
+	color: white;
+
+
+}
+
+a{
+	font-size: 15px;
+	color: skyblue;
+
+
+}
+
+
